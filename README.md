@@ -1,10 +1,6 @@
 # rotsl 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/700x40/0f172a/e5e7eb?text=Welcome!+Feel+free+to+explore+🌙" />
-  <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/700x40/f8fafc/020617?text=Welcome!+Feel+free+to+explore+☀️" />
-  <img alt="Welcome greeting" src="https://via.placeholder.com/700x40/f8fafc/020617?text=Welcome!+Feel+free+to+explore" />
-</picture>
+Welcome! Feel free to explore — glad you’re here 😊
 
 ---
 
