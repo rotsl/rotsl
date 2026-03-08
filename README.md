@@ -50,17 +50,6 @@ Some projects are public, others are private — links are shared for context.
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rotsl&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rotsl&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
----
-
 ## 🔬 Current Focus
 
 ![Research](https://img.shields.io/badge/Focus-Research%20Automation-6b7280?style=flat-square)
