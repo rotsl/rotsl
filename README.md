@@ -8,19 +8,13 @@ Research • Engineering • Systems
   <img src="https://komarev.com/ghpvc/?username=rotsl&label=Profile%20views&color=0f172a&style=for-the-badge" />
 </p>
 
-# 🔎 About <a href="https://orcid.org/0009-0005-9225-1775">
-  <img src="https://img.shields.io/badge/ORCID-0009--0005--9225--1775-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-</a>
 
-Research-oriented engineer working across **electronics, mechanical systems, computational biology, and scientific computing**.
+**I test ideas across electronics, robotics, computational biology, and scientific computing. Occasionally the ideas fight back.**
 
----
 
-Some repositories are **public experiments**, while others represent **private research initiatives**.
 
----
 
-# 🧰 Core Tools & Technologies
+#### 🧰 Core Tools & Technologies
 
 <p>
 
@@ -36,24 +30,19 @@ Some repositories are **public experiments**, while others represent **private r
 
 ---
 
-## 🐍 Contribution Graph
+#### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-# 🧠 Engineering Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&width=4000" />
 </p>
 
-
----
-
-## 🔍 Keywords
+#### 🔍 Keywords
 
 <p align="center">
 
@@ -71,5 +60,5 @@ Some repositories are **public experiments**, while others represent **private r
 ---
 
 <p align="center">
-  <sub>🐦‍🔥 Phoenix • 🧘 Calm • 🔬 Research-focused</sub>
+  <sub>🐦‍🔥 Phoenix • 🧘 Calm ❓ • 🔬 Research-focused</sub>
 </p>
