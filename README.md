@@ -5,54 +5,18 @@ Research • Engineering • Systems
 </p>
 
 <p align="center">
-  <a href="https://rotsl.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-rotsl.github.io-0f172a?style=for-the-badge" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=rotsl&label=Profile%20views&color=0f172a&style=for-the-badge" />
 </p>
-
-
 
 # 🔎 About <a href="https://orcid.org/0009-0005-9225-1775">
   <img src="https://img.shields.io/badge/ORCID-0009--0005--9225--1775-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
 </a>
 
-
 Research-oriented engineer working across **electronics, mechanical systems, computational biology, and scientific computing**.
 
-This GitHub profile contains **experimental projects, research tooling, and engineering prototypes** focused on:
-
-- embedded systems  
-- machine learning applications  
-- scientific automation  
-- computer vision research  
-- data processing pipelines  
-
-
-
 ---
 
-# 🧭 Background / Disciplines
-
-- ⚡ **Electronic Engineering**
-- 🛠 **Mechanical Engineering**
-- 🌊 **Fluid Dynamics**
-- 🧬 **Bioinformatics**
-
----
-
-# 🧪 Research & Development Focus
-
-Key technical areas explored in projects:
-
-- research automation systems  
-- computer vision & image processing  
-- embedded diagnostics & instrumentation  
-- applied machine learning  
-- scientific data pipelines  
-- engineering simulation workflows  
-
-Some repositories are **public experiments**, others represent **private research initiatives**.
+Some repositories are **public experiments**, while others represent **private research initiatives**.
 
 ---
 
@@ -67,8 +31,10 @@ Some repositories are **public experiments**, others represent **private researc
 <img src="https://img.shields.io/badge/Linux-Research%20Environment-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-Embedded%20Prototyping-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+
 </p>
 
+---
 
 ## 🐍 Contribution Graph
 
@@ -76,16 +42,13 @@ Some repositories are **public experiments**, others represent **private researc
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
 # 🧠 Engineering Philosophy
 
-> “Research is the systematic exploration of the unknown through disciplined experimentation.”
-
-Key principles guiding my work:
-
-- build systems that **generate knowledge**
-- automate repetitive research tasks
-- design tools that make experimentation faster
-- keep engineering **simple, observable, and reproducible**
+<p align="center">
+  <img src="https://quotes.rot-sl.dev/api/daily-quote.svg" />
+</p>
 
 ---
 
@@ -104,12 +67,8 @@ Key principles guiding my work:
 
 </p>
 
-# 🌐 Links
-
-Portfolio  
-https://rotsl.github.io/
-
 ---
+
 <p align="center">
   <sub>🐦‍🔥 Phoenix • 🧘 Calm • 🔬 Research-focused</sub>
 </p>
