@@ -47,8 +47,9 @@ Some repositories are **public experiments**, while others represent **private r
 # 🧠 Engineering Philosophy
 
 <p align="center">
-  <img src="https://quotes.rot-sl.dev/api/daily-quote.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
 
 ---
 
