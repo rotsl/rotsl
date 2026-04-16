@@ -8,6 +8,11 @@ Think • Build • Make system work
   <img src="https://komarev.com/ghpvc/?username=rotsl&label=Profile%20views&color=0f172a&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rotsl&label=How%20many%20see&color=0f172a&style=for-the-badge" />
+</p>
+
+
 
 **Me try idea. Idea from wires, robots, biology brain stuff, number machine. Sometimes idea punch back. Me punch again.**
 
