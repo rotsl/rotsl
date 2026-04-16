@@ -5,10 +5,6 @@ Think • Build • Make system work
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rotsl&label=Profile%20views&color=0f172a&style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rotsl&label=How%20many%20see&color=0f172a&style=for-the-badge" />
 </p>
 
