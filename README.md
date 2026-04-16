@@ -1,7 +1,7 @@
 # rotsl 👋
 
 <p align="center">
-Research • Engineering • Systems
+Think • Build • Make system work
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@ Research • Engineering • Systems
 </p>
 
 
-**I test ideas across electronics, robotics, computational biology, and scientific computing. Occasionally the ideas fight back.**
+**Me try idea. Idea from wires, robots, biology brain stuff, number machine. Sometimes idea punch back. Me punch again.**
 
 
 
@@ -60,5 +60,6 @@ Research • Engineering • Systems
 ---
 
 <p align="center">
-  <sub>🐦‍🔥 Phoenix • 🧘 Calm ❓ • 🔬 Research-focused</sub>
+  <sub>🔥 Rise bird • 🧘 Sit calm • ❓ Ask why • 🔬 Look close</sub>
 </p>
+
