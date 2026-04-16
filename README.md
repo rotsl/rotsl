@@ -5,7 +5,9 @@ Think • Build • Make system work
 </p>
 
 <p align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/eyes_1f440.png" width="40"/>
   <img src="https://komarev.com/ghpvc/?username=rotsl&label=How%20many%20see&color=0f172a&style=for-the-badge" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/eyes_1f440.png" width="40"/>
 </p>
 
 
