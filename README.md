@@ -1,4 +1,4 @@
-# rotsl 👋
+# rotsl 👋 me here
 
 <p align="center">
 Think • Build • Make system work
@@ -15,7 +15,7 @@ Think • Build • Make system work
 
 
 
-#### 🧰 Core Tools & Technologies
+#### 🧰 Tools me use
 
 <p>
 
@@ -43,7 +43,7 @@ Think • Build • Make system work
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&width=4000" />
 </p>
 
-#### 🔍 Keywords
+#### 🔍 Brain tags
 
 <p align="center">
 
