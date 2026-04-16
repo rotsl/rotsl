@@ -46,6 +46,6 @@ Think • Build • Make system work
 ---
 
 <p align="center">
-  <sub>🔥 Rise bird • 🧘 Sit calm • ❓ Ask why • 🔬 Look close</sub>
+  <sub>🔥 phoenix • 🧘 Sit calm • ❓ Ask why • 🔬 Look close</sub>
 </p>
 
