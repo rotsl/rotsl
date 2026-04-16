@@ -43,21 +43,6 @@ Think • Build • Make system work
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&width=4000" />
 </p>
 
-#### 🔍 Brain tags
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Research%20Engineer%20smash-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scientific%20Computing%20think-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning%20learn-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision%20see-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Systems%20hide-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research%20Automation%20do%20self-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Pipelines%20flow-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Instrumentation%20Systems%20measure-0f172a?style=for-the-badge" />
-
-</p>
-
 ---
 
 <p align="center">
