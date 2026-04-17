@@ -12,7 +12,6 @@ Think • Build • Make system work
 
 
 
-**Me try idea. Idea from wires, robots, biology brain stuff, number machine. Sometimes idea punch back. Me punch again.**
 
 
 
