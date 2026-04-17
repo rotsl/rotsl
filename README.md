@@ -1,4 +1,4 @@
-# rotsl 👋 me here
+# 👋 me here
 
 <p align="center">
 Think • Build • Make system work
