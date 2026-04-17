@@ -21,13 +21,13 @@ Think • Build • Make system work
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-Machine%20Learning-EF4B28?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-Embedded%20Systems-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Research%20Environment-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-Embedded%20Prototyping-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Think%20hard%20with%20number-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-Eye%20see%20thing-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Brain%20learn-EF4B28?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Small%20brain%20inside%20thing-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Place%20think%20test-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-Keep%20track%20no%20lose-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-Build%20small%20thing%20fast-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 
 </p>
 
